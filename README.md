@@ -22,7 +22,7 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 This course is for Python developers who would like to get started with concurrent programming. Readers are expected to have a working knowledge of the Python language, as this book will build on these fundamentals concepts.
 ### Technical Requirements
 This course has the following software requirements:<br/>
-Ubuntu 16.04
+Ubuntu 16.04,
 Python 3.6
 
 ## Related Products
