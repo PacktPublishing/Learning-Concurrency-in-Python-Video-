@@ -10,11 +10,12 @@ The course will guide you down the path to mastering Python concurrency, giving 
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>Automate the execution of lots of common everyday life tasks using Python 
-<LI>Write Python code proficiently in a structured fashion 
-<LI>Identify the boundaries of a coding problem and spot the best libraries to solve it 
-<LI>Design and Implement a wide range of applications from simple stand-alone one-liner scripts to complex web applications depending on external services 
-<LI>Manipulate efficiently and visualize data as a way to make informed decisions </LI></UL></DIV>
+<LI>Explore the concepts of threading and multiprocessing in Python
+<LI>Understand concurrency with threads
+<LI>Manage exceptions in child threads
+<LI>Handle the hardest part in a concurrent system: shared resources
+<LI>Build concurrent systems with Communicating Sequential Processes (CSPs)
+<LI>Maintain all concurrent systems and master them.</LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
